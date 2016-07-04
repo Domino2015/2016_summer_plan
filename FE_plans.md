@@ -21,6 +21,8 @@
 
     - 软件安装(make, apt-get|yum)
 
+    - nginx ,apache, node,php的安装配置,项目的部署 
+
     可以自己装个 linux 来玩,或者买个阿里云,腾讯云(学生优惠很便宜),实在不行在 window 上装个 cgywin 来玩
 
     前端为什么要学 linux, 主要是让你们了解后端环境, 熟悉命令行,以后不管是学习还是工作,基本上都逃不掉用的 linux 的东西
@@ -46,6 +48,10 @@
 
       + koa
 
+  + [php](http://php.net/manual/zh/)
+
+
+
   + css的其他姿势
     
     它们能帮助你写 css 更快,更方便,减少重复的工作
@@ -63,7 +69,7 @@
 
 具体培训内容视具体情况而定
 
-  + 移动端布局
+  + [移动前端](http://am-team.github.io/amg/dev-exp-doc.html)
 
     + rem 布局(淘宝 flexible 方案)
 
